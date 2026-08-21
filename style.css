@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background: #647a94;
+    color: #00ff00;
+    font-family: monospace;
+}
+
+.score-board {
+    text-align: center;
+    margin-top: 15px;
+}
+
+canvas {
+    display: block;
+    margin: 20px auto;
+    background: #222;
+}
